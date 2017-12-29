@@ -5,4 +5,5 @@ Based on the Nvidia's End-to-End Deeplearning [paper](https://arxiv.org/pdf/1604
 
 Output Frame:
 
-<img src="./output/output_epoch04_frame_27.png" width = "480" height = "270" align=center />
+<img src="./output/output_epoch04_frame_27.png" width = "480" height = "270" align=center /> 
+<img src="./output/result.png" width = "480" height = "270" align=center />
